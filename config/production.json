@@ -1,6 +1,0 @@
-{
-    "port": 5000,
-    "jwtSecret": "snezha 1695",
-    "mongoUri": "mongodb+srv://Snezhana:somepasword@cluster0.yaniq.mongodb.net/app?retryWrites=true&w=majority",
-    "baseUrl": "http://localhost:5000"
-}
